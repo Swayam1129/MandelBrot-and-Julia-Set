@@ -1,4 +1,4 @@
-#**Mandelbrot and Julia Set Visualization**
+# **Mandelbrot and Julia Set Visualization**
 
 ## Overview
 

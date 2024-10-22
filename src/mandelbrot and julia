@@ -1,4 +1,4 @@
-#include "ex3q1.h"
+#include "header.h"
 
 // TODO: map pixel 'x' to real part for Mandelbrot set
 double map_x_to_real(int x, int imgW, double centerX, double zoomFactor) {

@@ -7,12 +7,18 @@ This project visualizes the Mandelbrot Set and Julia Sets using recursive fracta
 ## Features
 
 Visualizes the Mandelbrot Set and Julia Sets.
+
 Outputs fractal images in PPM format.
+
 Recursive generation of fractals with adjustable parameters for zoom and iterations.
+
 Supports command-line input for easy configuration of fractal properties.
 
 ## Prerequisites
 
 C Compiler: Ensure you have a working C compiler like GCC.
+
 Make: (Optional) If you want to compile using a Makefile.
+
 Basic knowledge of fractals and how to run C programs on the terminal.
+
